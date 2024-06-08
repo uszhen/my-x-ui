@@ -104,15 +104,6 @@ More features are being planned...
 - Ubuntu 16+
 - Debian 8+
 
-## Credits
-
-* vaxilu's x-ui project: https://github.com/vaxilu/x-ui
-* qist's xray-ui project: https://github.com/qist/xray-ui
-* MHSanaei's 3x-ui project: https://github.com/MHSanaei/3x-ui
-
-
-
-## Disclaimer
 
 * This program is for learning and understanding only, not for profit, please delete within 24 hours after downloading, not for any commercial use, text, data and images are copyrighted, if reproduced, please indicate the source.
 * Use of this program is subject to the deployment disclaimer. Use of this program is subject to the laws and regulations of the country where the server is deployed and the country where the user is located, and the author of the program is not responsible for any misconduct of the user.
